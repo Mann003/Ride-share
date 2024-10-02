@@ -1,11 +1,11 @@
 # RVenture
 ## INTRODUCTION
 
-Ever felt like going on a ride but ran out of bikes, or want to make a use out of your unused bikes, if YES then so do we. What we came up with to solve this problem, was named R Venture.
+Ever felt like going on a ride but ran out of bikes, or want to make a use out of your unused bikes, if YES then so do we. What we came up with to solve this problem.
 
 
 
-R Venture is a vehicle renting app where we can rent out our not-in-use vehicles like cyles and bikes to people who need it and vice-vera we can be the lenders as well.
+Ride sharing is a vehicle renting app where we can rent out our not-in-use vehicles like cyles and bikes to people who need it and vice-vera we can be the lenders as well.
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ Official IDE used for developing android applications
 Firebase:
 For Signin Authentication and Database Storage
 
-Demo Video Link: https://drive.google.com/file/d/12k48HufCaKkdvWvOZEI6x85FgxO5J4nu/view?usp=sharing
+Demo Video Link: https://drive.google.com/file/d/1cd-tEFHL-1hkc7CAJIkFPxq4moI4Ej3V/view?usp=sharing
 
 ## Screenshots
 
